@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RL5cOF7nhnc0xmlpfApZ+nvRWP8pXmNdKRygkqNdtWcjky7aJTPiidkFrLv4+50lc+ixPOWJL6Zy9ptMWy/0wA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ftodd\\OneDrive\\Área de Trabalho\\Projetos Generation Dot net\\IMS_Projeto1\\IMC_Projeto1\\IMS1\\IMS1\\IMS1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ftodd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
